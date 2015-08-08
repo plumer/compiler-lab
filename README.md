@@ -19,7 +19,7 @@ Each directory correspond to one task.
 # apt-get install spim
 ```
 
-A Qt-version of `spim` can be found on [SPIM MIPS simulator](spimsimulator.sourceforge.net).
+A Qt-version of `spim` can be found on [SPIM MIPS simulator](http://spimsimulator.sourceforge.net).
 
 ## About grammar
 
