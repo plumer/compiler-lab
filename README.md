@@ -15,15 +15,19 @@ Each directory correspond to one task.
 
 `spim` can be installed by (on Debian-based Linux distros):
 
-		```
-		# apt-get install spim
-		```
+```shell
+# apt-get install spim
+```
 
 A Qt-version of `spim` can be found on [SPIM MIPS simulator](spimsimulator.sourceforge.net).
 
-The lexical and syntax table is not available here due to copyright.
-However, they can be inferred from `lexical.l` and `syntax.y`.
-Contact me if you want one of these copies.
+## About grammar
+
+The grammar this project used is a simple version of C language.
+The input files are assumed to be suffixed with `.cmm`.
+
+The semantic rules are not available here.
+Contact me if you want a copy of file descripting semantic rules.
 
 ## Usage
 
